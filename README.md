@@ -4,6 +4,14 @@
 
 **[👉 Get started at davincideluxe.fr](https://www.davincideluxe.fr)**
 
+[![DaVinci Deluxe · Cloud Edition](https://www.davincideluxe.fr/cloud1040/cloud-1040-01.jpg)](https://www.davincideluxe.fr)
+
+## 🎬 Watch it in action
+
+[![Watch the DaVinci Deluxe demo on YouTube](https://img.youtube.com/vi/x51fxDm_Z8E/maxresdefault.jpg)](https://www.youtube.com/watch?v=x51fxDm_Z8E)
+
+▶️ **[Watch the full demo on YouTube](https://www.youtube.com/watch?v=x51fxDm_Z8E)**
+
 ---
 
 **DaVinci Deluxe · Cloud Edition** is a next-generation **ECU tuning and remapping platform** for automotive professionals, tuners and workshops. Read your ECU, apply the modifications you need, and flash back a ready-to-use file — with **automatic checksum & CVN correction** built in. Emissions and module-off work runs locally in the desktop app; performance stages and advanced files run through our fully-automated **Cloud Tuning** engine.
@@ -55,6 +63,15 @@ Most cars and vans from ~2002 to 2026, 33+ brands, all major ECU families (Bosch
 
 **Can I try it before buying?**
 Yes — there's a free 10-minute trial. Start at [davincideluxe.fr](https://www.davincideluxe.fr).
+
+## 📸 Screenshots
+
+| | |
+|---|---|
+| [![DaVinci Deluxe screenshot](https://www.davincideluxe.fr/cloud1040/cloud-1040-02.jpg)](https://www.davincideluxe.fr) | [![DaVinci Deluxe screenshot](https://www.davincideluxe.fr/cloud1040/cloud-1040-03.jpg)](https://www.davincideluxe.fr) |
+| [![DaVinci Deluxe screenshot](https://www.davincideluxe.fr/cloud1040/cloud-1040-05.jpg)](https://www.davincideluxe.fr) | [![DaVinci Deluxe screenshot](https://www.davincideluxe.fr/cloud1040/cloud-1040-08.jpg)](https://www.davincideluxe.fr) |
+
+**[See more on davincideluxe.fr →](https://www.davincideluxe.fr)**
 
 ---
 
