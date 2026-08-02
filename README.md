@@ -31,6 +31,23 @@
 - **Desktop app (Windows)** — read, edit and write your ECU locally. Emissions & DTC-off handled in the app.
 - **Cloud Tuning** — upload your original .bin from any browser; the automated engine returns a modified, checksum-corrected file, usually in minutes.
 
+## 🔌 Cloud Tuning API — for developers, resellers & platforms
+
+Automate ECU file processing at scale with the **DaVinci Deluxe Cloud Tuning API** — a REST API built for workshops, tuning platforms, software integrators and resellers who want DPF/EGR/AdBlue/DTC-off and Stage 1/2/3 with **automatic checksum + RSA correction**, no manual review.
+
+- **Endpoints:** `submit` · `status` · `result` — fully async
+- **Auth:** API key (token) · rate-limited per plan
+- **Webhooks:** signed **HMAC-SHA256** callbacks when a job is ready
+- **Auto-reject + token refund** if a service isn't available for the ECU
+
+| Plan | Price | Throughput |
+|---|---|---|
+| **Starter** | 300 €/mo · 3000 €/yr | up to 100 files/day |
+| **Business** | 500 €/mo · 5000 €/yr | up to 500 files/day |
+| **Enterprise** | 800 €/mo · 8000 €/yr | unlimited files |
+
+📖 **[API docs & full pricing → davincideluxe.fr/api-pricing](https://www.davincideluxe.fr/api-pricing)** · [integration repo](https://github.com/DavinciDeluxe/cloud-tuning-api)
+
 ## ⚙️ System requirements
 
 - **Windows 10 & 11** — both **32-bit and 64-bit**
@@ -59,6 +76,7 @@
 
 - 🌐 Website: **[davincideluxe.fr](https://www.davincideluxe.fr)**
 - ☁️ Cloud Tuning: [upload a file](https://www.davincideluxe.fr/profile)
+- 🔌 API: [Cloud Tuning API for developers](https://www.davincideluxe.fr/api-pricing)
 - 📋 Supported ECUs: [full list](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html) · [PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
 - 🎬 Demo: [YouTube](https://www.youtube.com/watch?v=x51fxDm_Z8E)
 
