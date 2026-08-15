@@ -16,7 +16,7 @@
 
 **DaVinci Deluxe · Cloud Edition** is a next-generation **ECU tuning and remapping platform** for automotive professionals, tuners and workshops — read your ECU, apply the modifications you need, and flash back a ready-to-use file with **automatic checksum & CVN correction** built in.
 
-> Covering **1187+ ECUs across 76+ brands**, cars, vans and (beta) trucks from ~2002 to the latest 2026 models — Bosch EDC15/EDC16/EDC17, MD1/MG1, ME/MED/MEDC/MEVD, Siemens/Continental SIMOS/PCR/SID/EMS, Delphi DCM/CRD, Marelli, Denso and more.
+> Covering **1189+ ECUs across 76+ brands**, cars, vans and (beta) trucks from ~2002 to the latest 2026 models — Bosch EDC15/EDC16/EDC17, MD1/MG1, ME/MED/MEDC/MEVD, Siemens/Continental SIMOS/PCR/SID/EMS, Delphi DCM/CRD, Marelli, Denso and more.
 
 ## ✨ What DaVinci Deluxe does
 
