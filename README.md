@@ -2,6 +2,8 @@
 
 ### 🚀 Professional ECU tuning & remapping software — DPF, EGR, AdBlue, Stage 1/2/3 with automatic checksum correction
 
+<sub>Latest release: **v1.0.43** · Windows · macOS · iPad · Cloud — /* GH_SEO_PLATFORMS_1043_2026_08_24 */</sub>
+
 **[👉 Get started at davincideluxe.fr](https://www.davincideluxe.fr)**
 
 [![DaVinci Deluxe · Cloud Edition](https://www.davincideluxe.fr/cloud1040/cloud-1040-01.jpg)](https://www.davincideluxe.fr)
@@ -26,16 +28,18 @@
 | **Performance tuning** | Stage 1 · Stage 1+ · Stage 2 · Stage 3 · Pops & Bangs · HardCut · Ignition Cut · Launch Control · E85 · VMAX off |
 | **Built-in** | Automatic **checksum & CVN correction** · DAMOS/ORI database · all updates included |
 
-## 🖥️ Two ways to tune
+## 🖥️ Ways to tune
 
-- **Desktop app (Windows)** — read, edit and write your ECU locally. Emissions & DTC-off handled in the app.
-- **Cloud Tuning** — upload your original .bin from any browser; the automated engine returns a modified, checksum-corrected file, usually in minutes.
+- **Desktop app — Windows & macOS** — read, edit and write your ECU locally. Emissions & DTC-off handled in the app.
+- **iPad app (PWA)** — install straight from the browser ("Add to Home Screen"); tune and manage jobs on the go.
+- **Cloud Tuning** — upload your original .bin from any browser on any device; the automated engine returns a modified, checksum-corrected file, usually in minutes.
 
 ## ⚙️ System requirements
 
-- **Windows 10 & 11** — both **32-bit and 64-bit**
-- **Microsoft Edge** (WebView2) installed (ships with Windows 10/11)
-- Not available for macOS/Linux/mobile — Cloud Tuning works from any browser
+- **Windows 10 & 11** — both **32-bit and 64-bit** (Microsoft Edge / WebView2, ships with Windows)
+- **macOS** — native desktop build (.dmg); open via *Privacy & Security → Open Anyway* on first launch
+- **iPad** — installable web app (PWA): open in Safari and *Add to Home Screen*
+- **Any device** — Cloud Tuning runs entirely in the browser, no install needed
 
 ## 📸 Screenshots
 
