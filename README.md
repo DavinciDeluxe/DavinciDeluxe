@@ -2,7 +2,7 @@
 
 ### 🚀 Professional ECU tuning & remapping software — DPF, EGR, AdBlue, Stage 1/2/3 with automatic checksum correction
 
-<sub>Latest release: **v1.0.43** · Windows · macOS · iPad · Cloud — /* GH_SEO_PLATFORMS_1043_2026_08_24 */</sub>
+<sub>Latest release: **v1.0.43** · Windows · macOS · iPad · Cloud</sub>  <!-- GH_SEO_PLATFORMS_1043_2026_08_24 -->
 
 **[👉 Get started at davincideluxe.fr](https://www.davincideluxe.fr)**
 
