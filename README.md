@@ -41,12 +41,39 @@
 - **iPad** — installable web app (PWA): open in Safari and *Add to Home Screen*
 - **Any device** — Cloud Tuning runs entirely in the browser, no install needed
 
-## 📸 Screenshots
+## 📸 Screenshots — every platform
+
+<!-- GH_SEO_SCREENSHOTS_PLATFORMS_2026_08_24 -->
+
+**🪟 Windows / Cloud**
 
 | | |
 |---|---|
-| [![screenshot](https://www.davincideluxe.fr/cloud1040/cloud-1040-02.jpg)](https://www.davincideluxe.fr) | [![screenshot](https://www.davincideluxe.fr/cloud1040/cloud-1040-03.jpg)](https://www.davincideluxe.fr) |
-| [![screenshot](https://www.davincideluxe.fr/cloud1040/cloud-1040-05.jpg)](https://www.davincideluxe.fr) | [![screenshot](https://www.davincideluxe.fr/cloud1040/cloud-1040-08.jpg)](https://www.davincideluxe.fr) |
+| [![DaVinci Deluxe on Windows](https://www.davincideluxe.fr/cloud1040/cloud-1040-02.jpg)](https://www.davincideluxe.fr) | [![DaVinci Deluxe Cloud Tuning](https://www.davincideluxe.fr/cloud1040/cloud-1040-05.jpg)](https://www.davincideluxe.fr) |
+
+**🍎 macOS**
+
+| | |
+|---|---|
+| [![DaVinci Deluxe on macOS](https://www.davincideluxe.fr/cloudmac/mac-01.jpg)](https://www.davincideluxe.fr) | [![DaVinci Deluxe ECU tuning on Mac](https://www.davincideluxe.fr/cloudmac/mac-05.jpg)](https://www.davincideluxe.fr) |
+
+**📱 iPad (PWA)**
+
+| | |
+|---|---|
+| [![DaVinci Deluxe on iPad](https://www.davincideluxe.fr/cloudipad/ipad-01.jpg)](https://www.davincideluxe.fr) | [![DaVinci Deluxe tuning app on iPad](https://www.davincideluxe.fr/cloudipad/ipad-05.jpg)](https://www.davincideluxe.fr) |
+
+**🐧 Linux**
+
+| | |
+|---|---|
+| [![DaVinci Deluxe on Linux](https://www.davincideluxe.fr/cloudlinux/linux-01.jpg)](https://www.davincideluxe.fr) | [![DaVinci Deluxe ECU tuning on Linux](https://www.davincideluxe.fr/cloudlinux/linux-05.jpg)](https://www.davincideluxe.fr) |
+
+**🤖 Android**
+
+| | |
+|---|---|
+| [![DaVinci Deluxe on Android](https://www.davincideluxe.fr/cloudandroid/android-01.jpg)](https://www.davincideluxe.fr) | [![DaVinci Deluxe tuning app on Android](https://www.davincideluxe.fr/cloudandroid/android-05.jpg)](https://www.davincideluxe.fr) |
 
 ## ❓ FAQ
 
