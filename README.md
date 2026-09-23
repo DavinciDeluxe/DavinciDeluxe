@@ -8,17 +8,11 @@
 
 [![DaVinci Deluxe · Cloud Edition](https://www.davincideluxe.fr/cloud1040/cloud-1040-01.jpg)](https://www.davincideluxe.fr)
 
-## 🎬 Watch it in action
-
-[![Watch the DaVinci Deluxe demo on YouTube](https://img.youtube.com/vi/x51fxDm_Z8E/maxresdefault.jpg)](https://www.youtube.com/watch?v=x51fxDm_Z8E)
-
-▶️ **[Watch the full demo on YouTube](https://www.youtube.com/watch?v=x51fxDm_Z8E)**
-
 ---
 
 **DaVinci Deluxe · Cloud Edition** is a next-generation **ECU tuning and remapping platform** for automotive professionals, tuners and workshops — read your ECU, apply the modifications you need, and flash back a ready-to-use file with **automatic checksum & CVN correction** built in.
 
-> Covering **1391+ ECUs across 165+ brands**, cars, vans and (beta) trucks from ~2002 to the latest 2026 models — Bosch EDC15/EDC16/EDC17, MD1/MG1, ME/MED/MEDC/MEVD, Siemens/Continental SIMOS/PCR/SID/EMS, Delphi DCM/CRD, Marelli, Denso and more.
+> Covering **1392+ ECUs across 165+ brands**, cars, vans and (beta) trucks from ~2002 to the latest 2026 models — Bosch EDC15/EDC16/EDC17, MD1/MG1, ME/MED/MEDC/MEVD, Siemens/Continental SIMOS/PCR/SID/EMS, Delphi DCM/CRD, Marelli, Denso and more.
 
 ## ✨ What DaVinci Deluxe does
 
@@ -91,6 +85,5 @@
 - 🌐 Website: **[davincideluxe.fr](https://www.davincideluxe.fr)**
 - ☁️ Cloud Tuning: [upload a file](https://www.davincideluxe.fr/profile)
 - 📋 Supported ECUs: [full list](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html) · [PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
-- 🎬 Demo: [YouTube](https://www.youtube.com/watch?v=x51fxDm_Z8E)
 
 <sub>ECU remapping · chiptuning · DPF EGR AdBlue delete · Stage 1/2/3 · automatic checksum correction · automotive tuning software.</sub>
