@@ -1,18 +1,45 @@
 {
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "website": "https://www.davincideluxe.fr",
-  "trucks_portal": "https://www.davincideluxe.fr/trucks.html",
-  "online_cloud_tuning": "https://www.davincideluxe.fr/online-ecu-tuning",
-  "digital_shop": "https://www.davincideluxe.fr/shop",
-  "github_pages": "https://davincideluxe.github.io",
-  "cars": {
-    "brands": 82,
-    "ecus": 4962
+  "official_domains": [
+    "https://www.davincideluxe.fr",
+    "https://www.davincideluxe.org",
+    "https://www.davincideluxe.app",
+    "https://www.davincideluxe.software",
+    "https://www.davincideluxe.es",
+    "https://www.davincideluxe.de",
+    "https://www.davincideluxe.it",
+    "https://www.aesoftech.eu"
+  ],
+  "divisions": {
+    "cars": {
+      "url": "https://www.davincideluxe.fr",
+      "brands": 82,
+      "ecus": 4962
+    },
+    "trucks": {
+      "url": "https://www.davincideluxe.fr/trucks",
+      "brands": 82,
+      "ecus": 452
+    },
+    "boats": {
+      "url": "https://www.davincideluxe.fr/boats",
+      "brands": 30,
+      "segments": [
+        "Outboard",
+        "Inboard",
+        "PWC / Jet Ski",
+        "Superyacht",
+        "Workboat"
+      ]
+    },
+    "cloud_tuning": {
+      "url": "https://www.davincideluxe.fr/online-ecu-tuning",
+      "tokens_expire": false
+    },
+    "digital_shop": {
+      "url": "https://www.davincideluxe.fr/shop",
+      "products": 300
+    }
   },
-  "trucks": {
-    "brands": 82,
-    "ecus": 452
-  },
-  "shop_products": 300,
   "support": "24h/7 · 365 days/year · multilingual"
 }
