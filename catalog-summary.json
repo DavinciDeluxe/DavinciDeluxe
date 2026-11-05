@@ -1,0 +1,18 @@
+{
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "website": "https://www.davincideluxe.fr",
+  "trucks_portal": "https://www.davincideluxe.fr/trucks.html",
+  "online_cloud_tuning": "https://www.davincideluxe.fr/online-ecu-tuning",
+  "digital_shop": "https://www.davincideluxe.fr/shop",
+  "github_pages": "https://davincideluxe.github.io",
+  "cars": {
+    "brands": 82,
+    "ecus": 4962
+  },
+  "trucks": {
+    "brands": 82,
+    "ecus": 452
+  },
+  "shop_products": 0,
+  "support": "24h/7 · 365 days/year · multilingual"
+}
