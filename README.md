@@ -1,13 +1,27 @@
 # ⚡ DaVinci Deluxe Cloud Edition (v1.0.44) — Official Global Engineering Hub
 
 [![Official Flagship](https://img.shields.io/badge/Official_Platform-davincideluxe.fr-ff2238?style=for-the-badge)](https://www.davincideluxe.fr)
-[![Documentation Hub](https://img.shields.io/badge/GitHub_Pages-3087%2B_Tech_Guides-be123c?style=for-the-badge)](https://davincideluxe.github.io/)
+[![Documentation Hub](https://img.shields.io/badge/GitHub_Pages-3150%2B_Tech_Guides-be123c?style=for-the-badge)](https://davincideluxe.github.io/)
 [![OEM SW Database](https://img.shields.io/badge/Verified_OEM_SW-69,186%2B_IDs-e11d48?style=for-the-badge)](https://davincideluxe.github.io/sw-coverage/index.html)
-[![Live ECU Finder](https://img.shields.io/badge/Live_Search-5417%2B_ECUs-ff3b4e?style=for-the-badge)](https://davincideluxe.github.io/live-ecu-finder.html)
+[![Software Pricing](https://img.shields.io/badge/Licenses_%26_Plans-€9.99_to_€1,890-10b981?style=for-the-badge)](https://davincideluxe.github.io/pricing-and-plans.html)
+[![B2B API & 9 SDKs](https://img.shields.io/badge/B2B_REST_API-9_Official_SDKs-8b5cf6?style=for-the-badge)](https://davincideluxe.github.io/developers/index.html)
+[![Live ECU Finder](https://img.shields.io/badge/Live_Search-5415%2B_ECUs-ff3b4e?style=for-the-badge)](https://davincideluxe.github.io/live-ecu-finder.html)
 [![Boats & Marine](https://img.shields.io/badge/DaVinci_Boats-30%2B_Marine_Brands-0284c7?style=for-the-badge)](https://www.davincideluxe.fr/boats)
 [![24V Trucks & Agri](https://img.shields.io/badge/24V_Trucks_%26_Agri-452%2B_ECUs-f59e0b?style=for-the-badge)](https://www.davincideluxe.fr/trucks)
 
-**DaVinci Deluxe Cloud Edition (v1.0.44)** is the official cloud-powered ECU & TCU calibration ecosystem covering **Passenger Cars & Light Vans (4965+ ECUs / 69,186+ verified OEM Software IDs)**, **DaVinci Deluxe Cloud Edition Trucks (452+ 24V Truck, Bus, Tractor & Excavator ECUs)**, **DaVinci Deluxe Cloud Edition Boats (30+ Marine Outboard, Inboard, Jet Ski & Yacht brands + 35 Engine Models)**, and **300 verified DAMOS, A2L, Virgin ORI & Bench Pinout packages** — backed by **24h/7 live engineering support 365 days/year (including all holidays)**.
+**DaVinci Deluxe Cloud Edition (v1.0.44)** is the official cloud-powered ECU & TCU calibration ecosystem covering **Passenger Cars & Light Vans (4963+ ECUs / 69,186+ verified OEM Software IDs)**, **DaVinci Deluxe Cloud Edition Trucks (452+ 24V Truck, Bus, Tractor & Excavator ECUs)**, **DaVinci Deluxe Cloud Edition Boats (30+ Marine Outboard, Inboard, Jet Ski & Yacht brands + 35 Engine Models)**, **Transparent Software Licenses (€9.99 7-Day Real Test, €49.99 24h Pass, €100.99/mo Monthly, €1,009/yr VIP, 24V Trucks €99/€219/€1,890)**, **0-Credit Emissions Deletes**, **B2B Cloud REST API (`/api/v1/cloud/*` + 9 Official SDKs + White-Label `.exe` Brand)**, and **300 verified DAMOS, A2L, Virgin ORI & Bench Pinout packages** — backed by **24h/7 live engineering support 365 days/year (including all holidays)**.
+
+---
+
+## 💰 Official Software Licenses, Tuning Credits, Cloud Tokens & B2B REST API
+
+- 💰 **[Software Pricing & License Plans (€9.99 7-Day Trial · €49.99 24h Pass · €100.99/mo · €1,009/yr VIP · 24V Trucks €99/€219/€1,890)](https://davincideluxe.github.io/pricing-and-plans.html)**
+- 🪙 **[Performance Tuning Credit Bundles (€20–€300 Cars / €39–€580 Trucks) & 0-Credit Emissions Matrix](https://davincideluxe.github.io/credits-and-packages.html)** · **[Full Credit Cost Matrix](https://davincideluxe.github.io/credit-cost-matrix.html)**
+- ☁️ **[Pay-Per-Use Online Cloud Tokens (1 Token = €1 · Never Expire · €9 Deletes / €45 Stage 1)](https://davincideluxe.github.io/online-cloud-tokens.html)**
+- 🔌 **[B2B Cloud Tuning REST API (`/api/v1/cloud/*`) & 9 Official Language SDKs (Python, Node.js/TS, PHP/Laravel, WooCommerce, C#/.NET 8, Go, Java, Rust, cURL)](https://davincideluxe.github.io/developers/index.html)**
+- 📊 **[B2B API Wholesale Tiers (Starter €300/mo · Business €500/mo · Enterprise €800/mo Unlimited)](https://davincideluxe.github.io/api-pricing-plans.html)** · **[Postman v2.1 Collection](https://davincideluxe.github.io/data/davinci-cloud-tuning-api.postman_collection.json)**
+- 🏷️ **[White-Label Own Brand `.exe` Software (€1,000/mo + €1,990 Setup · Strict NDA · Keep 100% Revenue)](https://davincideluxe.github.io/white-label-reseller.html)**
+- 🤖 **[ARD 1.0 AI Catalog (`/.well-known/ai-catalog.json`)](https://davincideluxe.github.io/.well-known/ai-catalog.json)** · **[RFC 9727 API Catalog (`/.well-known/api-catalog`)](https://davincideluxe.github.io/.well-known/api-catalog)** · **[OpenAPI 3.1 (`/openapi.json`)](https://davincideluxe.github.io/openapi.json)**
 
 ---
 
@@ -26,7 +40,7 @@
 
 ---
 
-## 🚀 Direct Documentation & Interactive Tools (3087+ Pages · 82 Crimson Mini-Sites · 52 Gists)
+## 🚀 Direct Documentation & Interactive Tools (3150+ Pages · 88 Crimson Mini-Sites · 62 Gists)
 
 - 🔢 **[69,186+ Verified OEM ECU Software Numbers (Bosch 1037/10SW, Continental, Delphi, Denso, Marelli)](https://davincideluxe.github.io/sw-coverage/index.html)**
 - 📌 **[40 ECU & TCU Bench Service Mode (GPT1/GPT2), Tricore BSL & MCU Architecture Guides](https://davincideluxe.github.io/pinouts/index.html)**
@@ -38,13 +52,13 @@
 - 🔌 **[25 Master Hardware ECU/TCU Programmer Workflows (Autotuner, Flex, KESS3, PCMflash, bFlash, FoxFlash)](https://davincideluxe.github.io/programmers/index.html)**
 - 🧩 **[427 Real-World ECU & TCU Calibration Module Matrices](https://davincideluxe.github.io/ecu-modules/index.html)** · **[140 ECU Family × Service Guides](https://davincideluxe.github.io/ecu-services/index.html)**
 - 🛠️ **[351 Brand × ECU × Subsystem DTC Matrices](https://davincideluxe.github.io/ecu-dtc/index.html)** · **[148 OBD2 / Euro 6d DTC Guides](https://davincideluxe.github.io/obd2-diesel-dtc-codes.html)**
-- 🚗 **[Complete 82-Brand Passenger Car & Van ECU Catalog (4965+ ECUs)](https://davincideluxe.github.io/car-catalog/index.html)**
+- 🚗 **[Complete 82-Brand Passenger Car & Van ECU Catalog (4963+ ECUs)](https://davincideluxe.github.io/car-catalog/index.html)**
 - 🚛 **[Complete 82-Brand 24V Truck, Bus, Tractor & Construction ECU Catalog (452+ ECUs)](https://davincideluxe.github.io/truck-catalog/index.html)** · **[42 Off-Highway Agri Guides](https://davincideluxe.github.io/agri/index.html)**
 - 🚤 **[DaVinci Deluxe Cloud Edition Boats — 30+ Marine Brands, 176 Service Pages & 35 Engine Models](https://davincideluxe.github.io/boats-marine-ecu-tuning.html)** · **[35 Marine Engines](https://davincideluxe.github.io/marine-engines/index.html)**
 - ⚙️ **[25 TCU Automatic Gearbox Models (VAG DSG, ZF 6HP/8HP, Mercedes 9G, PDK, I-Shift)](https://davincideluxe.github.io/tcu/index.html)**
 - 🌐 **[40 Regional Country & Maritime Tuning Hubs](https://davincideluxe.github.io/geo/index.html)** · **[OpenAPI 3.1 Explorer](https://davincideluxe.github.io/api-explorer.html)**
 - 🛒 **[Digital Shop Catalog — 300 Verified DAMOS, A2L, Virgin ORI & Pinouts](https://davincideluxe.github.io/shop-catalog.html)**
 - 📰 **[360 ECU Calibration & Diagnostics Engineering Guides (EN/ES/DE/IT/FR)](https://davincideluxe.github.io/articles-index.html)**
-- 🗂️ **[82 Motorsport Crimson GitHub Mini-Sites](https://davincideluxe.github.io/project-pages-network.html)** · **[52 Public Technical Gists](https://davincideluxe.github.io/gists-open-datasets.html)** · **[Master Directory (3087+ Pages)](https://davincideluxe.github.io/all-pages-directory.html)**
+- 🗂️ **[88 Motorsport Crimson GitHub Mini-Sites](https://davincideluxe.github.io/project-pages-network.html)** · **[62 Public Technical Gists](https://davincideluxe.github.io/gists-open-datasets.html)** · **[Master Directory (3150+ Pages)](https://davincideluxe.github.io/all-pages-directory.html)**
 
 > ⚠️ **100% Virgin Original ECU File Protocol:** Always upload an unmodified factory original Bench, Boot, or OBD readout. Live **24h/7 engineering support** is available 365 days/year in all languages.
