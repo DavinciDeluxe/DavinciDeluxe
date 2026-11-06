@@ -1,4 +1,4 @@
-# Security & Anti-Clone Verification Policy — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Security & Anti-Clone Verification Policy — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 ## Official Verified Domains (8 Global Portals)
 Always verify that you are accessing an official domain operated by **DaVinci Deluxe Cloud Edition**:
