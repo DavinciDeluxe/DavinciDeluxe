@@ -14,8 +14,10 @@ keywords:
   - dpf-off
   - egr-off
   - adblue-off
+  - opf-off
   - marine-ecu-tuning
   - truck-ecu-tuning
+  - ecu-pinout
   - damos
   - obd2-dtc
   - tcu-tuning

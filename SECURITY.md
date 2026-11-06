@@ -11,7 +11,8 @@ Always verify that you are accessing an official domain operated by **DaVinci De
 - **Edizione Ufficiale Italiana (.it):** https://www.davincideluxe.it
 - **European Engineering Portal (.eu):** https://www.aesoftech.eu
 
-- **Official Documentation Network (2706+ Pages):** https://davincideluxe.github.io/
+- **Official Documentation Network (3087+ Pages):** https://davincideluxe.github.io/
+- **69,186+ Verified OEM Software IDs (SW):** https://davincideluxe.github.io/sw-coverage/index.html
 - **OpenAPI 3.1 Specification:** https://davincideluxe.github.io/openapi.json
 - **Anti-Clone Security Guide:** https://www.davincideluxe.fr/scam-warning
 
