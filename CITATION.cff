@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you reference DaVinci Deluxe Cloud Edition technical datasets or ECU compatibility documentation, please cite as below."
 title: "DaVinci Deluxe Cloud Edition (v1.0.45) — Cars, 24V Trucks, Agriculture & Marine Boats ECU Calibration Ecosystem"
 version: "1.0.45"
-date-released: "2026-11-06"
+date-released: "2026-11-07"
 url: "https://www.davincideluxe.fr"
 repository-code: "https://github.com/DavinciDeluxe/DavinciDeluxe"
 authors:
