@@ -19,7 +19,7 @@
 
 | Division / Engine | Coverage & Capabilities | Official Entry Point |
 | :--- | :--- | :--- |
-| **🚗 DaVinci Deluxe Cloud Edition (Cars & Vans)** | **5,139+ ECUs / 82 Brands** (~1999–2026): Bosch EDC15/16/17, MD1/MG1, ME7/ME9/MED9/MED17/MEVD17, Continental SIMOS/PCR2.1/SID/SIM2K, Delphi DCM, Marelli, Hitachi, Denso. | **[davincideluxe.fr](https://www.davincideluxe.fr)** |
+| **🚗 DaVinci Deluxe Cloud Edition (Cars & Vans)** | **5,150+ ECUs / 82 Brands** (~1999–2026): Bosch EDC15/16/17, MD1/MG1, ME7/ME9/MED9/MED17/MEVD17, Continental SIMOS/PCR2.1/SID/SIM2K, Delphi DCM, Marelli, Hitachi, Denso. | **[davincideluxe.fr](https://www.davincideluxe.fr)** |
 | **🚛 DaVinci Deluxe Cloud Edition Trucks** | **452+ ECUs / 82 Brands (Now Live!)**: 24V Heavy-Duty Trucks, Buses, Tractors, Forestry & Construction (Mercedes Trucks, Volvo, Scania, MAN, DAF, Iveco, Renault, John Deere, Case IH, New Holland, Claas, CAT, JCB). | **[davincideluxe.fr/trucks](https://www.davincideluxe.fr/trucks)** |
 | **🚤 DaVinci Deluxe Cloud Edition Boats** | **30+ Marine Propulsion Brands (Outboard · Inboard · Jet Ski / PWC · Yacht)**: Volvo Penta D3–D13, Mercury Verado/ProXS, Yamaha Marine & WaveRunner, Sea-Doo Rotax, Yanmar, Suzuki, Honda, Cummins Marine, CAT Marine, MTU, MAN Marine, Kawasaki. | **[davincideluxe.fr/boats](https://www.davincideluxe.fr/boats)** |
 | **☁️ Online Cloud Tuning (Pay-Per-Use)** | **No Subscription Needed — Tokens Never Expire.** Upload your 100% virgin binary in any browser and download the checksum-corrected solution in minutes. | **[davincideluxe.fr/online-ecu-tuning](https://www.davincideluxe.fr/online-ecu-tuning)** |
@@ -34,7 +34,7 @@
 - 🌐 **[Official GitHub Pages Multilingual Portal (`davincideluxe.github.io`)](https://davincideluxe.github.io)** — EN · ES · FR · DE · IT
 - 🚤 **[`davinci-boats-marine-ecu-tuning`](https://github.com/DavinciDeluxe/davinci-boats-marine-ecu-tuning)** — Marine Outboard, Inboard, Jet Ski & Yacht ECU Tuning (30+ Brands)
 - 🚛 **[`davinci-trucks-ecu-tuning`](https://github.com/DavinciDeluxe/davinci-trucks-ecu-tuning)** — 24V Heavy-Duty Trucks, Agriculture & Construction (452+ ECUs)
-- 🚗 **[`ecu-tuning-software`](https://github.com/DavinciDeluxe/ecu-tuning-software)** — Passenger Cars & Vans 20 ECU Families Hub (5139+ ECUs)
+- 🚗 **[`ecu-tuning-software`](https://github.com/DavinciDeluxe/ecu-tuning-software)** — Passenger Cars & Vans 20 ECU Families Hub (5150+ ECUs)
 - 🌍 **[`official-davinci-deluxe-domains`](https://github.com/DavinciDeluxe/official-davinci-deluxe-domains)** — Official `.fr`, `.org`, `.app`, `.software`, `.es`, `.de`, `.it` & `.eu` Brand Verification
 - 💨 **[`dpf-off-software`](https://github.com/DavinciDeluxe/dpf-off-software)** · **[`egr-off-software`](https://github.com/DavinciDeluxe/egr-off-software)** · **[`adblue-scr-off-software`](https://github.com/DavinciDeluxe/adblue-scr-off-software)**
 - 🔍 **[`dtc-off-fault-code-remover`](https://github.com/DavinciDeluxe/dtc-off-fault-code-remover)** · **[`ecu-checksum-correction-tool`](https://github.com/DavinciDeluxe/ecu-checksum-correction-tool)** · **[`stage1-stage2-remapping-software`](https://github.com/DavinciDeluxe/stage1-stage2-remapping-software)**
