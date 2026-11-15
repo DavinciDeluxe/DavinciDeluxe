@@ -23,7 +23,7 @@
 | **🚛 DaVinci Deluxe Cloud Edition Trucks** | **452+ ECUs / 82 Brands (Now Live!)**: 24V Heavy-Duty Trucks, Buses, Tractors, Forestry & Construction (Mercedes Trucks, Volvo, Scania, MAN, DAF, Iveco, Renault, John Deere, Case IH, New Holland, Claas, CAT, JCB). | **[davincideluxe.fr/trucks](https://www.davincideluxe.fr/trucks)** |
 | **🚤 DaVinci Deluxe Cloud Edition Boats** | **30+ Marine Propulsion Brands (Outboard · Inboard · Jet Ski / PWC · Yacht)**: Volvo Penta D3–D13, Mercury Verado/ProXS, Yamaha Marine & WaveRunner, Sea-Doo Rotax, Yanmar, Suzuki, Honda, Cummins Marine, CAT Marine, MTU, MAN Marine, Kawasaki. | **[davincideluxe.fr/boats](https://www.davincideluxe.fr/boats)** |
 | **☁️ Online Cloud Tuning (Pay-Per-Use)** | **No Subscription Needed — Tokens Never Expire.** Upload your 100% virgin binary in any browser and download the checksum-corrected solution in minutes. | **[davincideluxe.fr/online-ecu-tuning](https://www.davincideluxe.fr/online-ecu-tuning)** |
-| **🛒 Official Digital Shop (347 Packs)** | Instant HTTPS download of **300 verified OLS/DAMOS/A2L Super Packs, Virgin ORI Databases, Bench/Boot Pinouts & Immo Tools**. | **[davincideluxe.fr/shop](https://www.davincideluxe.fr/shop)** |
+| **🛒 Official Digital Shop (395 Packs)** | Instant HTTPS download of **300 verified OLS/DAMOS/A2L Super Packs, Virgin ORI Databases, Bench/Boot Pinouts & Immo Tools**. | **[davincideluxe.fr/shop](https://www.davincideluxe.fr/shop)** |
 | **🧮 Online Engineering Tools** | **[Checksum Tool](https://www.davincideluxe.fr/checksum-tool)** · **[DTC Code Dictionary](https://www.davincideluxe.fr/dtc)** · **[ECU Identifier](https://www.davincideluxe.fr/ecu-identifier)** · **[WinOLS Custom Engineering](https://www.davincideluxe.fr/advanced-tuning-winols)** | **[davincideluxe.fr/open-source](https://www.davincideluxe.fr/open-source)** |
 | **🛟 24h/7 Live Support (365 Days/Year)** | **24 hours/day, 7 days/week, holidays included** — send photos, videos, audio notes, or diagnostic logs in **any language** for step-by-step help. | **[davincideluxe.fr/contact](https://www.davincideluxe.fr/contact)** |
 
@@ -39,7 +39,7 @@
 - 💨 **[`dpf-off-software`](https://github.com/DavinciDeluxe/dpf-off-software)** · **[`egr-off-software`](https://github.com/DavinciDeluxe/egr-off-software)** · **[`adblue-scr-off-software`](https://github.com/DavinciDeluxe/adblue-scr-off-software)**
 - 🔍 **[`dtc-off-fault-code-remover`](https://github.com/DavinciDeluxe/dtc-off-fault-code-remover)** · **[`ecu-checksum-correction-tool`](https://github.com/DavinciDeluxe/ecu-checksum-correction-tool)** · **[`stage1-stage2-remapping-software`](https://github.com/DavinciDeluxe/stage1-stage2-remapping-software)**
 - 🏎️ **[`car-brand-ecu-tuning-directory`](https://github.com/DavinciDeluxe/car-brand-ecu-tuning-directory)** (243 Brand Pages) · **[`truck-brand-ecu-tuning-directory`](https://github.com/DavinciDeluxe/truck-brand-ecu-tuning-directory)** (72 Truck Pages)
-- 🛒 **[`ecu-damos-ori-shop-catalog`](https://github.com/DavinciDeluxe/ecu-damos-ori-shop-catalog)** (347 Packs) · **[`cloud-tuning-api`](https://github.com/DavinciDeluxe/cloud-tuning-api)** · **[`supported-ecu-list`](https://github.com/DavinciDeluxe/supported-ecu-list)**
+- 🛒 **[`ecu-damos-ori-shop-catalog`](https://github.com/DavinciDeluxe/ecu-damos-ori-shop-catalog)** (395 Packs) · **[`cloud-tuning-api`](https://github.com/DavinciDeluxe/cloud-tuning-api)** · **[`supported-ecu-list`](https://github.com/DavinciDeluxe/supported-ecu-list)**
 
 
 ---
