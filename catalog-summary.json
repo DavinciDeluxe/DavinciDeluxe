@@ -14,11 +14,11 @@
     "cars": {
       "url": "https://www.davincideluxe.fr",
       "brands": 82,
-      "ecus": 5188
+      "ecus": 5193
     },
     "trucks": {
       "url": "https://www.davincideluxe.fr/trucks",
-      "brands": 104,
+      "brands": 105,
       "ecus": 452
     },
     "boats": {
